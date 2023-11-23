@@ -1,0 +1,24 @@
+[3.991s] Invoking command in '/home/zakaria/ros2_ws/build/examples_rclpy_guard_conditions': PYTHONPATH=/home/zakaria/ros2_ws/build/examples_rclpy_guard_conditions/prefix_override:/home/zakaria/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zakaria/ros2_ws/build/examples_rclpy_guard_conditions/build --no-deps install_data
+[5.015s] running develop
+[5.016s] running egg_info
+[5.016s] creating examples_rclpy_guard_conditions.egg-info
+[5.016s] writing examples_rclpy_guard_conditions.egg-info/PKG-INFO
+[5.017s] writing dependency_links to examples_rclpy_guard_conditions.egg-info/dependency_links.txt
+[5.017s] writing entry points to examples_rclpy_guard_conditions.egg-info/entry_points.txt
+[5.017s] writing requirements to examples_rclpy_guard_conditions.egg-info/requires.txt
+[5.017s] writing top-level names to examples_rclpy_guard_conditions.egg-info/top_level.txt
+[5.017s] writing manifest file 'examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[5.017s] reading manifest file 'examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[5.017s] writing manifest file 'examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[5.018s] running build_ext
+[5.018s] Creating /home/zakaria/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples-rclpy-guard-conditions.egg-link (link to .)
+[5.018s] Installing trigger_guard_condition script to /home/zakaria/ros2_ws/install/examples_rclpy_guard_conditions/lib/examples_rclpy_guard_conditions
+[5.018s] 
+[5.018s] Installed /home/zakaria/ros2_ws/build/examples_rclpy_guard_conditions
+[5.018s] running install_data
+[5.018s] creating /home/zakaria/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index
+[5.018s] creating /home/zakaria/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index/resource_index
+[5.019s] creating /home/zakaria/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index/resource_index/packages
+[5.019s] copying resource/examples_rclpy_guard_conditions -> /home/zakaria/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index/resource_index/packages
+[5.019s] copying package.xml -> /home/zakaria/ros2_ws/install/examples_rclpy_guard_conditions/share/examples_rclpy_guard_conditions
+[5.357s] Invoked command in '/home/zakaria/ros2_ws/build/examples_rclpy_guard_conditions' returned '0': PYTHONPATH=/home/zakaria/ros2_ws/build/examples_rclpy_guard_conditions/prefix_override:/home/zakaria/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zakaria/ros2_ws/build/examples_rclpy_guard_conditions/build --no-deps install_data

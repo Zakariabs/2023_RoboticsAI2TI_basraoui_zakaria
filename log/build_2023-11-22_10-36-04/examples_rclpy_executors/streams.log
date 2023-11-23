@@ -1,0 +1,29 @@
+[4.071s] Invoking command in '/home/zakaria/ros2_ws/build/examples_rclpy_executors': PYTHONPATH=/home/zakaria/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/zakaria/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zakaria/ros2_ws/build/examples_rclpy_executors/build --no-deps install_data
+[4.554s] running develop
+[4.862s] running egg_info
+[4.862s] creating examples_rclpy_executors.egg-info
+[4.862s] writing examples_rclpy_executors.egg-info/PKG-INFO
+[4.863s] writing dependency_links to examples_rclpy_executors.egg-info/dependency_links.txt
+[4.863s] writing entry points to examples_rclpy_executors.egg-info/entry_points.txt
+[4.863s] writing requirements to examples_rclpy_executors.egg-info/requires.txt
+[4.863s] writing top-level names to examples_rclpy_executors.egg-info/top_level.txt
+[4.864s] writing manifest file 'examples_rclpy_executors.egg-info/SOURCES.txt'
+[4.866s] reading manifest file 'examples_rclpy_executors.egg-info/SOURCES.txt'
+[4.868s] writing manifest file 'examples_rclpy_executors.egg-info/SOURCES.txt'
+[4.870s] running build_ext
+[4.871s] Creating /home/zakaria/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples-rclpy-executors.egg-link (link to .)
+[4.872s] Installing callback_group script to /home/zakaria/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[4.872s] Installing composed script to /home/zakaria/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[4.872s] Installing custom_callback_group script to /home/zakaria/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[4.873s] Installing custom_executor script to /home/zakaria/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[4.873s] Installing listener script to /home/zakaria/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[4.873s] Installing talker script to /home/zakaria/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[4.873s] 
+[4.874s] Installed /home/zakaria/ros2_ws/build/examples_rclpy_executors
+[4.874s] running install_data
+[4.874s] creating /home/zakaria/ros2_ws/install/examples_rclpy_executors/share/ament_index
+[4.874s] creating /home/zakaria/ros2_ws/install/examples_rclpy_executors/share/ament_index/resource_index
+[4.874s] creating /home/zakaria/ros2_ws/install/examples_rclpy_executors/share/ament_index/resource_index/packages
+[4.874s] copying resource/examples_rclpy_executors -> /home/zakaria/ros2_ws/install/examples_rclpy_executors/share/ament_index/resource_index/packages
+[4.875s] copying package.xml -> /home/zakaria/ros2_ws/install/examples_rclpy_executors/share/examples_rclpy_executors
+[5.170s] Invoked command in '/home/zakaria/ros2_ws/build/examples_rclpy_executors' returned '0': PYTHONPATH=/home/zakaria/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/zakaria/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zakaria/ros2_ws/build/examples_rclpy_executors/build --no-deps install_data

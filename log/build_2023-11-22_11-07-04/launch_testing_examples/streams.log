@@ -1,0 +1,48 @@
+[1.408s] Invoking command in '/home/zakaria/ros2_ws/build/launch_testing_examples': PYTHONPATH=/home/zakaria/ros2_ws/build/launch_testing_examples/prefix_override:/home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/zakaria/ros2_ws/build/launch_testing_examples/build
+[1.698s] running develop
+[1.885s] Removing /home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch-testing-examples.egg-link (link to .)
+[1.913s] Invoked command in '/home/zakaria/ros2_ws/build/launch_testing_examples' returned '0': PYTHONPATH=/home/zakaria/ros2_ws/build/launch_testing_examples/prefix_override:/home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/zakaria/ros2_ws/build/launch_testing_examples/build
+[1.915s] Invoking command in '/home/zakaria/ros2_ws/src/examples/launch_testing/launch_testing_examples': PYTHONPATH=/home/zakaria/ros2_ws/build/launch_testing_examples/prefix_override:/home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/launch_testing_examples build --build-base /home/zakaria/ros2_ws/build/launch_testing_examples/build install --record /home/zakaria/ros2_ws/build/launch_testing_examples/install.log --single-version-externally-managed
+[2.172s] running egg_info
+[2.172s] writing ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/PKG-INFO
+[2.173s] writing dependency_links to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/dependency_links.txt
+[2.173s] writing entry points to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/entry_points.txt
+[2.173s] writing requirements to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/requires.txt
+[2.173s] writing top-level names to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/top_level.txt
+[2.175s] reading manifest file '../../../../build/launch_testing_examples/launch_testing_examples.egg-info/SOURCES.txt'
+[2.177s] writing manifest file '../../../../build/launch_testing_examples/launch_testing_examples.egg-info/SOURCES.txt'
+[2.177s] running build
+[2.177s] running build_py
+[2.177s] creating /home/zakaria/ros2_ws/build/launch_testing_examples/build
+[2.177s] creating /home/zakaria/ros2_ws/build/launch_testing_examples/build/lib
+[2.178s] creating /home/zakaria/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples
+[2.178s] copying launch_testing_examples/set_param_launch_test.py -> /home/zakaria/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples
+[2.178s] copying launch_testing_examples/check_msgs_launch_test.py -> /home/zakaria/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples
+[2.178s] copying launch_testing_examples/__init__.py -> /home/zakaria/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples
+[2.178s] copying launch_testing_examples/check_node_launch_test.py -> /home/zakaria/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples
+[2.178s] copying launch_testing_examples/check_multiple_nodes_launch_test.py -> /home/zakaria/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples
+[2.179s] copying launch_testing_examples/hello_world_launch_test.py -> /home/zakaria/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples
+[2.179s] copying launch_testing_examples/record_rosbag_launch_test.py -> /home/zakaria/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples
+[2.179s] running install
+[2.179s] running install_lib
+[2.180s] creating /home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples
+[2.180s] copying /home/zakaria/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples/set_param_launch_test.py -> /home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples
+[2.180s] copying /home/zakaria/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples/check_msgs_launch_test.py -> /home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples
+[2.180s] copying /home/zakaria/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples/__init__.py -> /home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples
+[2.181s] copying /home/zakaria/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples/check_node_launch_test.py -> /home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples
+[2.181s] copying /home/zakaria/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples/check_multiple_nodes_launch_test.py -> /home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples
+[2.181s] copying /home/zakaria/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples/hello_world_launch_test.py -> /home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples
+[2.181s] copying /home/zakaria/ros2_ws/build/launch_testing_examples/build/lib/launch_testing_examples/record_rosbag_launch_test.py -> /home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples
+[2.182s] byte-compiling /home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples/set_param_launch_test.py to set_param_launch_test.cpython-310.pyc
+[2.182s] byte-compiling /home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples/check_msgs_launch_test.py to check_msgs_launch_test.cpython-310.pyc
+[2.183s] byte-compiling /home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples/__init__.py to __init__.cpython-310.pyc
+[2.183s] byte-compiling /home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples/check_node_launch_test.py to check_node_launch_test.cpython-310.pyc
+[2.183s] byte-compiling /home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples/check_multiple_nodes_launch_test.py to check_multiple_nodes_launch_test.cpython-310.pyc
+[2.184s] byte-compiling /home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples/hello_world_launch_test.py to hello_world_launch_test.cpython-310.pyc
+[2.185s] byte-compiling /home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples/record_rosbag_launch_test.py to record_rosbag_launch_test.cpython-310.pyc
+[2.185s] running install_data
+[2.186s] running install_egg_info
+[2.188s] Copying ../../../../build/launch_testing_examples/launch_testing_examples.egg-info to /home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples-0.15.1-py3.10.egg-info
+[2.189s] running install_scripts
+[2.209s] writing list of installed files to '/home/zakaria/ros2_ws/build/launch_testing_examples/install.log'
+[2.260s] Invoked command in '/home/zakaria/ros2_ws/src/examples/launch_testing/launch_testing_examples' returned '0': PYTHONPATH=/home/zakaria/ros2_ws/build/launch_testing_examples/prefix_override:/home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/launch_testing_examples build --build-base /home/zakaria/ros2_ws/build/launch_testing_examples/build install --record /home/zakaria/ros2_ws/build/launch_testing_examples/install.log --single-version-externally-managed

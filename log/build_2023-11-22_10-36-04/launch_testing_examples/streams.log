@@ -1,0 +1,23 @@
+[1.068s] Invoking command in '/home/zakaria/ros2_ws/build/launch_testing_examples': PYTHONPATH=/home/zakaria/ros2_ws/build/launch_testing_examples/prefix_override:/home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zakaria/ros2_ws/build/launch_testing_examples/build --no-deps install_data
+[1.328s] running develop
+[1.517s] running egg_info
+[1.517s] creating launch_testing_examples.egg-info
+[1.518s] writing launch_testing_examples.egg-info/PKG-INFO
+[1.518s] writing dependency_links to launch_testing_examples.egg-info/dependency_links.txt
+[1.518s] writing entry points to launch_testing_examples.egg-info/entry_points.txt
+[1.518s] writing requirements to launch_testing_examples.egg-info/requires.txt
+[1.518s] writing top-level names to launch_testing_examples.egg-info/top_level.txt
+[1.518s] writing manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[1.520s] reading manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[1.520s] writing manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[1.522s] running build_ext
+[1.522s] Creating /home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch-testing-examples.egg-link (link to .)
+[1.522s] 
+[1.522s] Installed /home/zakaria/ros2_ws/build/launch_testing_examples
+[1.522s] running install_data
+[1.522s] creating /home/zakaria/ros2_ws/install/launch_testing_examples/share/ament_index
+[1.523s] creating /home/zakaria/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index
+[1.523s] creating /home/zakaria/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index/packages
+[1.523s] copying resource/launch_testing_examples -> /home/zakaria/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index/packages
+[1.523s] copying package.xml -> /home/zakaria/ros2_ws/install/launch_testing_examples/share/launch_testing_examples
+[1.557s] Invoked command in '/home/zakaria/ros2_ws/build/launch_testing_examples' returned '0': PYTHONPATH=/home/zakaria/ros2_ws/build/launch_testing_examples/prefix_override:/home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zakaria/ros2_ws/build/launch_testing_examples/build --no-deps install_data

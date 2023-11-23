@@ -1,0 +1,20 @@
+[13.365s] Invoking command in '/home/zakaria/ros2_ws/src/examples/launch_testing/launch_testing_examples': PYTHONPATH=/home/zakaria/ros2_ws/build/launch_testing_examples/prefix_override:/home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/launch_testing_examples build --build-base /home/zakaria/ros2_ws/build/launch_testing_examples/build install --record /home/zakaria/ros2_ws/build/launch_testing_examples/install.log --single-version-externally-managed
+[14.607s] running egg_info
+[14.611s] writing ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/PKG-INFO
+[14.611s] writing dependency_links to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/dependency_links.txt
+[14.611s] writing entry points to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/entry_points.txt
+[14.612s] writing requirements to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/requires.txt
+[14.612s] writing top-level names to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/top_level.txt
+[14.619s] reading manifest file '../../../../build/launch_testing_examples/launch_testing_examples.egg-info/SOURCES.txt'
+[14.622s] writing manifest file '../../../../build/launch_testing_examples/launch_testing_examples.egg-info/SOURCES.txt'
+[14.622s] running build
+[14.622s] running build_py
+[14.624s] running install
+[14.625s] running install_lib
+[14.633s] running install_data
+[14.635s] running install_egg_info
+[14.647s] removing '/home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples-0.15.1-py3.10.egg-info' (and everything under it)
+[14.648s] Copying ../../../../build/launch_testing_examples/launch_testing_examples.egg-info to /home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples-0.15.1-py3.10.egg-info
+[14.667s] running install_scripts
+[14.736s] writing list of installed files to '/home/zakaria/ros2_ws/build/launch_testing_examples/install.log'
+[15.137s] Invoked command in '/home/zakaria/ros2_ws/src/examples/launch_testing/launch_testing_examples' returned '0': PYTHONPATH=/home/zakaria/ros2_ws/build/launch_testing_examples/prefix_override:/home/zakaria/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/launch_testing_examples build --build-base /home/zakaria/ros2_ws/build/launch_testing_examples/build install --record /home/zakaria/ros2_ws/build/launch_testing_examples/install.log --single-version-externally-managed

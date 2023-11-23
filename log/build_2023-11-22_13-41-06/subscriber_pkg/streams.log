@@ -1,0 +1,22 @@
+[0.857s] Invoking command in '/home/zakaria/ros2_ws/src/subscriber_pkg/subscriber_pkg': PYTHONPATH=/home/zakaria/ros2_ws/build/subscriber_pkg/prefix_override:/home/zakaria/ros2_ws/install/subscriber_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/subscriber_pkg build --build-base /home/zakaria/ros2_ws/build/subscriber_pkg/build install --record /home/zakaria/ros2_ws/build/subscriber_pkg/install.log --single-version-externally-managed
+[1.115s] running egg_info
+[1.115s] writing ../../../build/subscriber_pkg/subscriber_pkg.egg-info/PKG-INFO
+[1.115s] writing dependency_links to ../../../build/subscriber_pkg/subscriber_pkg.egg-info/dependency_links.txt
+[1.116s] writing entry points to ../../../build/subscriber_pkg/subscriber_pkg.egg-info/entry_points.txt
+[1.116s] writing requirements to ../../../build/subscriber_pkg/subscriber_pkg.egg-info/requires.txt
+[1.116s] writing top-level names to ../../../build/subscriber_pkg/subscriber_pkg.egg-info/top_level.txt
+[1.117s] reading manifest file '../../../build/subscriber_pkg/subscriber_pkg.egg-info/SOURCES.txt'
+[1.118s] writing manifest file '../../../build/subscriber_pkg/subscriber_pkg.egg-info/SOURCES.txt'
+[1.118s] running build
+[1.118s] running build_py
+[1.119s] running install
+[1.119s] running install_lib
+[1.121s] running install_data
+[1.121s] copying launch/subscriber_pkg_launch_file.launch.py -> /home/zakaria/ros2_ws/install/subscriber_pkg/share/subscriber_pkg
+[1.121s] running install_egg_info
+[1.123s] removing '/home/zakaria/ros2_ws/install/subscriber_pkg/lib/python3.10/site-packages/subscriber_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.123s] Copying ../../../build/subscriber_pkg/subscriber_pkg.egg-info to /home/zakaria/ros2_ws/install/subscriber_pkg/lib/python3.10/site-packages/subscriber_pkg-0.0.0-py3.10.egg-info
+[1.124s] running install_scripts
+[1.143s] Installing simple_subscriber script to /home/zakaria/ros2_ws/install/subscriber_pkg/lib/subscriber_pkg
+[1.143s] writing list of installed files to '/home/zakaria/ros2_ws/build/subscriber_pkg/install.log'
+[1.164s] Invoked command in '/home/zakaria/ros2_ws/src/subscriber_pkg/subscriber_pkg' returned '0': PYTHONPATH=/home/zakaria/ros2_ws/build/subscriber_pkg/prefix_override:/home/zakaria/ros2_ws/install/subscriber_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/subscriber_pkg build --build-base /home/zakaria/ros2_ws/build/subscriber_pkg/build install --record /home/zakaria/ros2_ws/build/subscriber_pkg/install.log --single-version-externally-managed
