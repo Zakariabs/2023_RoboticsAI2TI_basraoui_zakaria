@@ -5,7 +5,7 @@ def generate_launch_description():
     return LaunchDescription([
         Node(
             package='subpub_pkg',
-            executable='subpub',
+            executable='subpub', 
             name='subpub',
             output='screen'
         )

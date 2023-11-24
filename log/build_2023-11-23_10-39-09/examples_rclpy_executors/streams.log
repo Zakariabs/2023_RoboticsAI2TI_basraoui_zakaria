@@ -1,0 +1,26 @@
+[5.290s] Invoking command in '/home/zakaria/ros2_ws/src/examples/rclpy/executors': PYTHONPATH=/home/zakaria/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/zakaria/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/examples_rclpy_executors build --build-base /home/zakaria/ros2_ws/build/examples_rclpy_executors/build install --record /home/zakaria/ros2_ws/build/examples_rclpy_executors/install.log --single-version-externally-managed
+[6.165s] running egg_info
+[6.166s] writing ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/PKG-INFO
+[6.166s] writing dependency_links to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/dependency_links.txt
+[6.167s] writing entry points to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/entry_points.txt
+[6.167s] writing requirements to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/requires.txt
+[6.167s] writing top-level names to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/top_level.txt
+[6.171s] reading manifest file '../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[6.173s] writing manifest file '../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[6.173s] running build
+[6.173s] running build_py
+[6.174s] running install
+[6.175s] running install_lib
+[6.179s] running install_data
+[6.180s] running install_egg_info
+[6.185s] removing '/home/zakaria/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors-0.15.1-py3.10.egg-info' (and everything under it)
+[6.189s] Copying ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info to /home/zakaria/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors-0.15.1-py3.10.egg-info
+[6.203s] running install_scripts
+[6.248s] Installing callback_group script to /home/zakaria/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[6.248s] Installing composed script to /home/zakaria/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[6.249s] Installing custom_callback_group script to /home/zakaria/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[6.249s] Installing custom_executor script to /home/zakaria/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[6.249s] Installing listener script to /home/zakaria/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[6.250s] Installing talker script to /home/zakaria/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[6.251s] writing list of installed files to '/home/zakaria/ros2_ws/build/examples_rclpy_executors/install.log'
+[6.887s] Invoked command in '/home/zakaria/ros2_ws/src/examples/rclpy/executors' returned '0': PYTHONPATH=/home/zakaria/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/zakaria/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/examples_rclpy_executors build --build-base /home/zakaria/ros2_ws/build/examples_rclpy_executors/build install --record /home/zakaria/ros2_ws/build/examples_rclpy_executors/install.log --single-version-externally-managed

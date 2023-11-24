@@ -1,0 +1,21 @@
+[5.411s] Invoking command in '/home/zakaria/ros2_ws/src/examples/rclpy/guard_conditions': PYTHONPATH=/home/zakaria/ros2_ws/build/examples_rclpy_guard_conditions/prefix_override:/home/zakaria/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/examples_rclpy_guard_conditions build --build-base /home/zakaria/ros2_ws/build/examples_rclpy_guard_conditions/build install --record /home/zakaria/ros2_ws/build/examples_rclpy_guard_conditions/install.log --single-version-externally-managed
+[6.182s] running egg_info
+[6.182s] writing ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/PKG-INFO
+[6.182s] writing dependency_links to ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/dependency_links.txt
+[6.182s] writing entry points to ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/entry_points.txt
+[6.182s] writing requirements to ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/requires.txt
+[6.183s] writing top-level names to ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/top_level.txt
+[6.183s] reading manifest file '../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[6.183s] writing manifest file '../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[6.183s] running build
+[6.183s] running build_py
+[6.183s] running install
+[6.183s] running install_lib
+[6.183s] running install_data
+[6.183s] running install_egg_info
+[6.183s] removing '/home/zakaria/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples_rclpy_guard_conditions-0.15.1-py3.10.egg-info' (and everything under it)
+[6.184s] Copying ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info to /home/zakaria/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples_rclpy_guard_conditions-0.15.1-py3.10.egg-info
+[6.184s] running install_scripts
+[6.195s] Installing trigger_guard_condition script to /home/zakaria/ros2_ws/install/examples_rclpy_guard_conditions/lib/examples_rclpy_guard_conditions
+[6.195s] writing list of installed files to '/home/zakaria/ros2_ws/build/examples_rclpy_guard_conditions/install.log'
+[6.532s] Invoked command in '/home/zakaria/ros2_ws/src/examples/rclpy/guard_conditions' returned '0': PYTHONPATH=/home/zakaria/ros2_ws/build/examples_rclpy_guard_conditions/prefix_override:/home/zakaria/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/examples_rclpy_guard_conditions build --build-base /home/zakaria/ros2_ws/build/examples_rclpy_guard_conditions/build install --record /home/zakaria/ros2_ws/build/examples_rclpy_guard_conditions/install.log --single-version-externally-managed

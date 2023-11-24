@@ -1,0 +1,36 @@
+running egg_info
+creating ../../build/lidar_pkg/lidar_pkg.egg-info
+writing ../../build/lidar_pkg/lidar_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/lidar_pkg/lidar_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/lidar_pkg/lidar_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/lidar_pkg/lidar_pkg.egg-info/requires.txt
+writing top-level names to ../../build/lidar_pkg/lidar_pkg.egg-info/top_level.txt
+writing manifest file '../../build/lidar_pkg/lidar_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/lidar_pkg/lidar_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/lidar_pkg/lidar_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/zakaria/ros2_ws/build/lidar_pkg/build
+creating /home/zakaria/ros2_ws/build/lidar_pkg/build/lib
+creating /home/zakaria/ros2_ws/build/lidar_pkg/build/lib/lidar_pkg
+copying lidar_pkg/lidar.py -> /home/zakaria/ros2_ws/build/lidar_pkg/build/lib/lidar_pkg
+copying lidar_pkg/__init__.py -> /home/zakaria/ros2_ws/build/lidar_pkg/build/lib/lidar_pkg
+running install
+running install_lib
+creating /home/zakaria/ros2_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg
+copying /home/zakaria/ros2_ws/build/lidar_pkg/build/lib/lidar_pkg/lidar.py -> /home/zakaria/ros2_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg
+copying /home/zakaria/ros2_ws/build/lidar_pkg/build/lib/lidar_pkg/__init__.py -> /home/zakaria/ros2_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg
+byte-compiling /home/zakaria/ros2_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg/lidar.py to lidar.cpython-310.pyc
+byte-compiling /home/zakaria/ros2_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/zakaria/ros2_ws/install/lidar_pkg/share/ament_index
+creating /home/zakaria/ros2_ws/install/lidar_pkg/share/ament_index/resource_index
+creating /home/zakaria/ros2_ws/install/lidar_pkg/share/ament_index/resource_index/packages
+copying resource/lidar_pkg -> /home/zakaria/ros2_ws/install/lidar_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/zakaria/ros2_ws/install/lidar_pkg/share/lidar_pkg
+copying launch/lidar_pkg_launch_file.launch.py -> /home/zakaria/ros2_ws/install/lidar_pkg/share/lidar_pkg
+running install_egg_info
+Copying ../../build/lidar_pkg/lidar_pkg.egg-info to /home/zakaria/ros2_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing lidar_pkg_node script to /home/zakaria/ros2_ws/install/lidar_pkg/lib/lidar_pkg
+writing list of installed files to '/home/zakaria/ros2_ws/build/lidar_pkg/install.log'

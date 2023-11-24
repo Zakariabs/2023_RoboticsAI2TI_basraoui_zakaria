@@ -1,0 +1,25 @@
+[4.442s] Invoking command in '/home/zakaria/ros2_ws/src/examples/rclpy/actions/minimal_action_server': PYTHONPATH=/home/zakaria/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/home/zakaria/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /home/zakaria/ros2_ws/build/examples_rclpy_minimal_action_server/build install --record /home/zakaria/ros2_ws/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed
+[5.051s] running egg_info
+[5.052s] writing ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/PKG-INFO
+[5.052s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/dependency_links.txt
+[5.052s] writing entry points to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/entry_points.txt
+[5.053s] writing requirements to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/requires.txt
+[5.053s] writing top-level names to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/top_level.txt
+[5.057s] reading manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[5.059s] writing manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[5.059s] running build
+[5.059s] running build_py
+[5.060s] running install
+[5.061s] running install_lib
+[5.064s] running install_data
+[5.065s] running install_egg_info
+[5.069s] removing '/home/zakaria/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server-0.15.1-py3.10.egg-info' (and everything under it)
+[5.069s] Copying ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info to /home/zakaria/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server-0.15.1-py3.10.egg-info
+[5.071s] running install_scripts
+[5.111s] Installing server script to /home/zakaria/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[5.111s] Installing server_defer script to /home/zakaria/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[5.112s] Installing server_not_composable script to /home/zakaria/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[5.112s] Installing server_queue_goals script to /home/zakaria/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[5.112s] Installing server_single_goal script to /home/zakaria/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[5.113s] writing list of installed files to '/home/zakaria/ros2_ws/build/examples_rclpy_minimal_action_server/install.log'
+[5.423s] Invoked command in '/home/zakaria/ros2_ws/src/examples/rclpy/actions/minimal_action_server' returned '0': PYTHONPATH=/home/zakaria/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/home/zakaria/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /home/zakaria/ros2_ws/build/examples_rclpy_minimal_action_server/build install --record /home/zakaria/ros2_ws/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed

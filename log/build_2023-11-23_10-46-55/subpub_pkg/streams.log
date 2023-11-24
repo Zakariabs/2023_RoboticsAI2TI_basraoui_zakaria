@@ -1,0 +1,21 @@
+[3.500s] Invoking command in '/home/zakaria/ros2_ws/src/subpub_pkg': PYTHONPATH=/home/zakaria/ros2_ws/build/subpub_pkg/prefix_override:/home/zakaria/ros2_ws/install/subpub_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/subpub_pkg build --build-base /home/zakaria/ros2_ws/build/subpub_pkg/build install --record /home/zakaria/ros2_ws/build/subpub_pkg/install.log --single-version-externally-managed
+[4.081s] running egg_info
+[4.083s] writing ../../build/subpub_pkg/subpub_pkg.egg-info/PKG-INFO
+[4.083s] writing dependency_links to ../../build/subpub_pkg/subpub_pkg.egg-info/dependency_links.txt
+[4.083s] writing entry points to ../../build/subpub_pkg/subpub_pkg.egg-info/entry_points.txt
+[4.083s] writing requirements to ../../build/subpub_pkg/subpub_pkg.egg-info/requires.txt
+[4.083s] writing top-level names to ../../build/subpub_pkg/subpub_pkg.egg-info/top_level.txt
+[4.084s] reading manifest file '../../build/subpub_pkg/subpub_pkg.egg-info/SOURCES.txt'
+[4.085s] writing manifest file '../../build/subpub_pkg/subpub_pkg.egg-info/SOURCES.txt'
+[4.085s] running build
+[4.085s] running build_py
+[4.086s] running install
+[4.086s] running install_lib
+[4.088s] running install_data
+[4.089s] running install_egg_info
+[4.090s] removing '/home/zakaria/ros2_ws/install/subpub_pkg/lib/python3.10/site-packages/subpub_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[4.091s] Copying ../../build/subpub_pkg/subpub_pkg.egg-info to /home/zakaria/ros2_ws/install/subpub_pkg/lib/python3.10/site-packages/subpub_pkg-0.0.0-py3.10.egg-info
+[4.091s] running install_scripts
+[4.116s] Installing subpub script to /home/zakaria/ros2_ws/install/subpub_pkg/lib/subpub_pkg
+[4.116s] writing list of installed files to '/home/zakaria/ros2_ws/build/subpub_pkg/install.log'
+[4.332s] Invoked command in '/home/zakaria/ros2_ws/src/subpub_pkg' returned '0': PYTHONPATH=/home/zakaria/ros2_ws/build/subpub_pkg/prefix_override:/home/zakaria/ros2_ws/install/subpub_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/subpub_pkg build --build-base /home/zakaria/ros2_ws/build/subpub_pkg/build install --record /home/zakaria/ros2_ws/build/subpub_pkg/install.log --single-version-externally-managed

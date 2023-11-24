@@ -1,0 +1,21 @@
+[3.218s] Invoking command in '/home/zakaria/ros2_ws/src/publisher_pkg': PYTHONPATH=/home/zakaria/ros2_ws/build/publisher_pkg/prefix_override:/home/zakaria/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/publisher_pkg build --build-base /home/zakaria/ros2_ws/build/publisher_pkg/build install --record /home/zakaria/ros2_ws/build/publisher_pkg/install.log --single-version-externally-managed
+[3.831s] running egg_info
+[3.832s] writing ../../build/publisher_pkg/publisher_pkg.egg-info/PKG-INFO
+[3.833s] writing dependency_links to ../../build/publisher_pkg/publisher_pkg.egg-info/dependency_links.txt
+[3.833s] writing entry points to ../../build/publisher_pkg/publisher_pkg.egg-info/entry_points.txt
+[3.833s] writing requirements to ../../build/publisher_pkg/publisher_pkg.egg-info/requires.txt
+[3.833s] writing top-level names to ../../build/publisher_pkg/publisher_pkg.egg-info/top_level.txt
+[3.836s] reading manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+[3.838s] writing manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+[3.838s] running build
+[3.839s] running build_py
+[3.840s] running install
+[3.840s] running install_lib
+[3.841s] running install_data
+[3.845s] running install_egg_info
+[3.845s] removing '/home/zakaria/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[3.846s] Copying ../../build/publisher_pkg/publisher_pkg.egg-info to /home/zakaria/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg-0.0.0-py3.10.egg-info
+[3.847s] running install_scripts
+[3.888s] Installing simple_publisher script to /home/zakaria/ros2_ws/install/publisher_pkg/lib/publisher_pkg
+[3.889s] writing list of installed files to '/home/zakaria/ros2_ws/build/publisher_pkg/install.log'
+[3.972s] Invoked command in '/home/zakaria/ros2_ws/src/publisher_pkg' returned '0': PYTHONPATH=/home/zakaria/ros2_ws/build/publisher_pkg/prefix_override:/home/zakaria/ros2_ws/install/publisher_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/publisher_pkg build --build-base /home/zakaria/ros2_ws/build/publisher_pkg/build install --record /home/zakaria/ros2_ws/build/publisher_pkg/install.log --single-version-externally-managed

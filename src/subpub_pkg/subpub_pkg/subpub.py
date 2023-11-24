@@ -35,7 +35,7 @@ class Subpub(Node):
         self.get_logger().info('I receive: "%s"' % str(self.laser_forward))
         # Logic of move
         if self.laser_forward > 5:
-            self.cmd.linear.x = 0.10
+            self.cmd.linear.x = 2.0
             self.cmd.angular.z = 0.0
         elif self.laser_forward < 5 and self.laser_forward >= 0.5:
             self.cmd.linear.x = 0.1

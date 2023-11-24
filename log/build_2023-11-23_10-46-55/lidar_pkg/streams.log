@@ -1,0 +1,22 @@
+[3.826s] Invoking command in '/home/zakaria/ros2_ws/src/lidar_pkg': PYTHONPATH=/home/zakaria/ros2_ws/build/lidar_pkg/prefix_override:/home/zakaria/ros2_ws/install/lidar_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/lidar_pkg build --build-base /home/zakaria/ros2_ws/build/lidar_pkg/build install --record /home/zakaria/ros2_ws/build/lidar_pkg/install.log --single-version-externally-managed
+[4.341s] running egg_info
+[4.342s] writing ../../build/lidar_pkg/lidar_pkg.egg-info/PKG-INFO
+[4.342s] writing dependency_links to ../../build/lidar_pkg/lidar_pkg.egg-info/dependency_links.txt
+[4.343s] writing entry points to ../../build/lidar_pkg/lidar_pkg.egg-info/entry_points.txt
+[4.343s] writing requirements to ../../build/lidar_pkg/lidar_pkg.egg-info/requires.txt
+[4.343s] writing top-level names to ../../build/lidar_pkg/lidar_pkg.egg-info/top_level.txt
+[4.346s] reading manifest file '../../build/lidar_pkg/lidar_pkg.egg-info/SOURCES.txt'
+[4.348s] writing manifest file '../../build/lidar_pkg/lidar_pkg.egg-info/SOURCES.txt'
+[4.348s] running build
+[4.348s] running build_py
+[4.348s] running install
+[4.349s] running install_lib
+[4.352s] running install_data
+[4.354s] copying launch/lidar_pkg_launch_file.launch.py -> /home/zakaria/ros2_ws/install/lidar_pkg/share/lidar_pkg
+[4.354s] running install_egg_info
+[4.357s] removing '/home/zakaria/ros2_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[4.357s] Copying ../../build/lidar_pkg/lidar_pkg.egg-info to /home/zakaria/ros2_ws/install/lidar_pkg/lib/python3.10/site-packages/lidar_pkg-0.0.0-py3.10.egg-info
+[4.359s] running install_scripts
+[4.397s] Installing lidar_pkg_node script to /home/zakaria/ros2_ws/install/lidar_pkg/lib/lidar_pkg
+[4.397s] writing list of installed files to '/home/zakaria/ros2_ws/build/lidar_pkg/install.log'
+[4.570s] Invoked command in '/home/zakaria/ros2_ws/src/lidar_pkg' returned '0': PYTHONPATH=/home/zakaria/ros2_ws/build/lidar_pkg/prefix_override:/home/zakaria/ros2_ws/install/lidar_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/lidar_pkg build --build-base /home/zakaria/ros2_ws/build/lidar_pkg/build install --record /home/zakaria/ros2_ws/build/lidar_pkg/install.log --single-version-externally-managed
