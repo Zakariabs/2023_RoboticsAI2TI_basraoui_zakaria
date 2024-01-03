@@ -1,3 +1,0 @@
-[console_scripts]
-subpub = subpub_pkg.subpub:main
-

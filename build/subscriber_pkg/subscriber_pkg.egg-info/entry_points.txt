@@ -1,3 +1,0 @@
-[console_scripts]
-simple_subscriber = subscriber_pkg.simple_subscriber:main
-
